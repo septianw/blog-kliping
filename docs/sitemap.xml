@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://kliping.septianw.web.id/about/</loc>
     <lastmod>2021-12-20T06:59:11+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/2002/</loc>
+    <loc>https://kliping.septianw.web.id/archives/2002/</loc>
     <lastmod>2002-12-20T07:22:52+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://kliping.septianw.web.id/archives/</loc>
     <lastmod>2002-12-20T07:22:52+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://kliping.septianw.web.id/</loc>
     <lastmod>2002-12-20T07:22:52+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://kliping.septianw.web.id/categories/</loc>
     <lastmod>2002-12-20T07:22:52+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/drink/</loc>
+    <loc>https://kliping.septianw.web.id/tags/drink/</loc>
     <lastmod>2002-12-20T07:22:52+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/juice/</loc>
+    <loc>https://kliping.septianw.web.id/tags/juice/</loc>
     <lastmod>2002-12-20T07:22:52+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2002/kencana-wungu/</loc>
+    <loc>https://kliping.septianw.web.id/2002/kencana-wungu/</loc>
     <lastmod>2002-12-20T07:22:52+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/nyata/</loc>
+    <loc>https://kliping.septianw.web.id/categories/nyata/</loc>
     <lastmod>2002-12-20T07:22:52+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://kliping.septianw.web.id/post/</loc>
     <lastmod>2002-12-20T07:22:52+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rekarasa/</loc>
+    <loc>https://kliping.septianw.web.id/tags/rekarasa/</loc>
     <lastmod>2002-12-20T07:22:52+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/syrup/</loc>
+    <loc>https://kliping.septianw.web.id/tags/syrup/</loc>
     <lastmod>2002-12-20T07:22:52+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://kliping.septianw.web.id/tags/</loc>
     <lastmod>2002-12-20T07:22:52+07:00</lastmod>
   </url>
 </urlset>
