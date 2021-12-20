@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://kliping.septianw.web.id/'
 languageCode = 'en-us'
 title = 'Article collection'
 theme = "jeffprod"
