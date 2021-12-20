@@ -21,3 +21,5 @@ author: Septian Wibisono
 1. Kocok semua bahan hingga tercampur rata lalu tuang ke dalam gelas fancy hingga hampir penuh.
 2. Hias bibir gelas dengan gula pasir warna-warni, potongan nanas, cherry merah dan hijau.
 3. Sajikan segera.
+
+source: Tabloid Nyata @2002
