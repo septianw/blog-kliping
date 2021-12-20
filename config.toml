@@ -1,0 +1,19 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'Article collection'
+theme = "jeffprod"
+
+[permalinks]
+    post = "/:year/:filename"
+
+[taxonomies]
+    tag = "tags"
+    archive = "archives"
+    category = "categories"
+
+[menu]
+[[menu.main]]
+  identifier = 'about'
+  name = 'About this site'
+  url = '/about/'
+  weight = -110
