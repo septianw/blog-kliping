@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>drink on Article collection</title>
+    <link>http://localhost:1313/tags/drink/</link>
+    <description>Recent content in drink on Article collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Dec 2002 07:22:52 +0700</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/tags/drink/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kencana Wungu</title>
+      <link>http://localhost:1313/2002/kencana-wungu/</link>
+      <pubDate>Fri, 20 Dec 2002 07:22:52 +0700</pubDate>
+      
+      <guid>http://localhost:1313/2002/kencana-wungu/</guid>
+      <description>Kencana Wungu BAHAN:  Jus anggur 30 ml Jus nanas 45 ml Jus jeruk nipis 15 ml Es batu balok kecil 6 buah  CARA MEMBUAT:  Kocok semua bahan hingga tercampur rata. Tuang ke dalam gelas panjang hingga hampir penuh. Hias sisi gelas dengan potongan melon, brokoli dan cherry hijau. Sajikan segera.  </description>
+    </item>
+    
+  </channel>
+</rss>
