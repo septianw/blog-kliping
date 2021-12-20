@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Article collection</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Article collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Dec 2002 07:22:52 +0700</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nyata</title>
+      <link>http://localhost:1313/categories/nyata/</link>
+      <pubDate>Fri, 20 Dec 2002 07:22:52 +0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/nyata/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
