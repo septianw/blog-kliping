@@ -18,3 +18,5 @@ author: Septian Wibisono
 1. Kocok semua bahan hingga tercampur rata. Tuang ke dalam gelas panjang hingga hampir penuh.
 2. Hias sisi gelas dengan potongan melon, brokoli dan cherry hijau.
 3. Sajikan segera.
+
+source: Tabloid nyata @2002
